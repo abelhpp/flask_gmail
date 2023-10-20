@@ -18,9 +18,7 @@ git commit -m "Mensaje de confirmación"
 #Agregar origin se hace una vez
 git remote add origin URL_del_repositorio_de_GitHub
 
-#gmal
-flask
-wibg ayan kugi akrz
+
 
 
 
